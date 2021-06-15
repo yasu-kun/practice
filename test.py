@@ -3,3 +3,4 @@
 3 仙太郎の編集です
 4 developのbranchで編集しました．
 5 developのbranchで編集しました(2)
+6 developのbranchで編集しました(3)
