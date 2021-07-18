@@ -1,3 +1,4 @@
 (B_main)はじめにファイルを作成しました
 (B_main)mainで1回目の編集です．
 (B_main)mainで2回目の編集です．
+(B_dev)devのbranchでの初めての編集です．（main->devにmergeした）
